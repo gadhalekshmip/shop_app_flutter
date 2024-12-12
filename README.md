@@ -3,9 +3,8 @@
 A simple Flutter app to manage and showcase your shoe collection. The app allows users to add, view, and organize their favorite shoes with an intuitive interface.
 
 ## Features
-- Add new shoes to your collection with details such as name, brand, size, and an image.
-- View a list of all shoes in your collection.
-- Organize shoes by brand or size.
+- View new shoes to your collection with details such as name, brand, size, and an image.
+- Add shoes to cart by size.
 - Responsive and user-friendly design.
 
 ## Screenshots
